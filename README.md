@@ -1,4 +1,4 @@
-Pega esto tal cual en el `README.md`:
+
 
 ````md
 # finance-control
